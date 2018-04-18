@@ -1,0 +1,14 @@
+/*仅定义页面显示的样式，不能影响htmlandcss主题代码*/
+.f-codearea{
+    width: 600px;
+    height: 200px;
+}
+.f-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.f-table td{
+    border: 1px solid lightskyblue;
+    text-align: center;
+    vertical-align: top;
+}

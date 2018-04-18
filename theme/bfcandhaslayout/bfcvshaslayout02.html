@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+    <meta charset="UTF-8">
+    <title>bfc vs haslayout02-不能与浮动元素相互覆盖</title>
+    <link rel="stylesheet" type="text/css" href="../css/format.css">
+    <style>
+
+    </style>
+</head>
+<body>
+<div><a href="info.html">info</a>--&gt;<a href="haslayout02.html">haslayout02</a></div>
+<h3>代码</h3>
+<textarea class="f-codearea">
+    <div style="float: left; background: gold; margin: 0 10px;">
+        Float Block
+    </div>
+    <div style="background: green; overflow: auto;">
+        Block Formating Content/haslayout
+    </div>
+</textarea>
+<hr>
+<div style="width: 300px; height: 150px; background: gray;">
+    <div style="float: left; background: gold; margin: 0 10px;">
+        Float Block
+    </div>
+    <div style="background: green; overflow: auto;">
+        Block Formating Content/haslayout
+    </div>
+</div>
+<hr>
+<table class="f-table">
+    <caption><h3>bfc vs haslayout02-效果截图</h3></caption>
+    <tr><td>
+        IE8-浏览器模式：IE8标准模式，文档模式：IE8标准模式<br><img src="screenshot/ie8/bfcvshaslayout02_ie8s.jpg" title="IE8-浏览器模式：IE8标准模式，文档模式：IE8标准模式">
+    </td>
+        <td>
+            IE8-浏览器模式：IE8兼容模式，文档模式：IE7<br><img src="screenshot/ie8/bfcvshaslayout02_ie8c.jpg" title="IE8-浏览器模式：IE8兼容模式，文档模式：IE7">
+        </td></tr>
+    <tr><td>
+        IE8-浏览器模式：IE7，文档模式：IE7<br><img src="screenshot/ie8/bfcvshaslayout02_ie8c_ie7.jpg" title="IE8-浏览器模式：IE7，文档模式：IE7">
+    </td><td>
+        IE8-浏览器模式：IE8兼容模式，文档模式：QUIRKS<br><img src="screenshot/ie8/bfcvshaslayout02_ie8c_quirks.jpg" title="IE8-浏览器模式：IE8兼容模式，文档模式：QUIRKS">
+    </td></tr>
+    <tr><td>
+        CHROME<br><img src="screenshot/chrome/bfcvshaslayout02_chrome.jpg" title="CHROME">
+    </td><td>
+        FIREFOX<br><img src="screenshot/firfox/bfcvshaslayout02_firefox.jpg" title="FIREFOX">
+    </td></tr>
+</table>
+</body>
+</html>

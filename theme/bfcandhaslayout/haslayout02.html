@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+    <meta charset="UTF-8">
+    <title>haslayout02-不能与浮动元素相互覆盖</title>
+    <link rel="stylesheet" type="text/css" href="../css/format.css">
+    <style>
+
+    </style>
+</head>
+<body>
+<div><a href="info.html">info</a></div>
+<h3>代码</h3>
+<textarea class="f-codearea">
+<div style="width: 300px; height: 150px; background: gray;">
+    <div style="float: left; background: gold; margin: 0 10px;">
+        Float Block
+    </div>
+    <div style="background: green; zoom: 1;">
+        Block Formating Content/haslayout
+    </div>
+</div>
+</textarea>
+<hr>
+<div style="width: 300px; height: 150px; background: gray;">
+    <div style="float: left; background: gold; margin: 0 10px;">
+        Float Block
+    </div>
+    <div style="background: green; zoom: 1;">
+        Block Formating Content/haslayout
+    </div>
+</div>
+<hr>
+<h5>
+    在触发hasLayout 的元素和创建了Block Formatting Contexts的元素中，浮动元素参与高度的计算。
+    【注】:IE8 标准文档模式下zoom:1 不再触发haslayout 特性。<a href="bfcvshaslayout02.html">bfcvshaslayout02</a>
+</h5>
+<hr>
+<table class="f-table">
+    <caption><h3>haslayout02-效果截图</h3></caption>
+    <tr><td>
+        IE8-浏览器模式：IE8标准模式，文档模式：IE8标准模式<br><img src="screenshot/ie8/haslayout02_ie8s.jpg" title="IE8-浏览器模式：IE8标准模式，文档模式：IE8标准模式">
+    </td>
+        <td>
+            IE8-浏览器模式：IE8兼容模式，文档模式：IE7<br><img src="screenshot/ie8/haslayout02_ie8c.jpg" title="IE8-浏览器模式：IE8兼容模式，文档模式：IE7">
+        </td></tr>
+    <tr><td>
+        IE8-浏览器模式：IE7，文档模式：IE7<br><img src="screenshot/ie8/haslayout02_ie8c_ie7.jpg" title="IE8-浏览器模式：IE7，文档模式：IE7">
+    </td><td>
+        IE8-浏览器模式：IE8兼容模式，文档模式：QUIRKS<br><img src="screenshot/ie8/haslayout02_ie8c_quirks.jpg" title="IE8-浏览器模式：IE8兼容模式，文档模式：QUIRKS">
+    </td></tr>
+    <tr><td>
+        CHROME<br><img src="screenshot/chrome/haslayout02_chrome.jpg" title="CHROME">
+    </td><td>
+        FIREFOX<br><img src="screenshot/firfox/haslayout02_firefox.jpg" title="FIREFOX">
+    </td></tr>
+</table>
+</body>
+</html>

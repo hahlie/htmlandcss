@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+    <meta charset="UTF-8">
+    <title>haslayout01-清除浮动</title>
+    <link rel="stylesheet" type="text/css" href="../css/format.css">
+</head>
+<body>
+<div><a href="info.html">info</a></div>
+<h3>代码</h3>
+<textarea class="f-codearea">
+<div style="width: 300px; background: gray;">
+    <div style="float: left; background: gold;">float:left</div>
+</div>
+</textarea>
+<hr>
+<div style="width: 300px; background: gray;">
+    <div style="float: left; background: gold;">float:left</div>
+</div>
+<hr>
+<h5>
+    在触发hasLayout 的元素和创建了Block Formatting Contexts的元素中，浮动元素参与高度的计算。<br>
+    【注】:IE8 标准文档模式下触发了haslayout 特性的元素不再拥有"清理" 浮动元素
+    功能，它回归了标准的Block Formatting Contexts 规范，只有创建BFC 后才拥
+    有此功能。<a href="bfcvshaslayout01.html">bfc vs haslayout01</a>
+</h5>
+<hr>
+<table class="f-table">
+    <caption><h3>haslayout01-效果截图</h3></caption>
+    <tr><td>
+        IE8-浏览器模式：IE8标准模式，文档模式：IE8标准模式<br><img src="screenshot/ie8/haslayout01_ie8s.jpg" title="IE8-浏览器模式：IE8标准模式，文档模式：IE8标准模式">
+    </td>
+        <td>
+            IE8-浏览器模式：IE8兼容模式，文档模式：IE7<br><img src="screenshot/ie8/haslayout01_ie8c.jpg" title="IE8-浏览器模式：IE8兼容模式，文档模式：IE7">
+        </td></tr>
+    <tr><td>
+        IE8-浏览器模式：IE7，文档模式：IE7<br><img src="screenshot/ie8/haslayout01_ie8c_ie7.jpg" title="IE8-浏览器模式：IE7，文档模式：IE7">
+    </td><td>
+        IE8-浏览器模式：IE8兼容模式，文档模式：QUIRKS<br><img src="screenshot/ie8/haslayout01_ie8c_quirks.jpg" title="IE8-浏览器模式：IE8兼容模式，文档模式：QUIRKS">
+    </td></tr>
+    <tr><td>
+        CHROME<br><img src="screenshot/chrome/haslayout01_chrome.jpg" title="CHROME">
+    </td><td>
+        FIREFOX<br><img src="screenshot/firfox/haslayout01_firefox.jpg" title="FIREFOX">
+    </td></tr>
+</table>
+</body>
+</html>

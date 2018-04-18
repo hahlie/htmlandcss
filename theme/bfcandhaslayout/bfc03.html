@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+    <meta charset="UTF-8">
+    <title>bfc03-触发BFC使容器包含浮动元素</title>
+    <link rel="stylesheet" type="text/css" href="../css/format.css">
+    <style>
+
+    </style>
+</head>
+<body>
+<div><a href="info.html">info</a></div>
+<h3>代码</h3>
+<textarea class="f-codearea">
+<div style="border: 1px solid #000;">
+    <div style="width: 100px;height: 100px;background: #eee;float: left;"></div>
+</div>
+<div style="clear: left"></div>
+<div style="border: 1px solid #000;overflow: hidden">
+    <div style="width: 100px;height: 100px;background: #eee;float: left;"></div>
+</div>
+</textarea>
+<hr>
+<div style="border: 1px solid #000;">
+    <div style="width: 100px;height: 100px;background: #eee;float: left;"></div>
+</div>
+<div style="clear: left"></div>
+<div style="border: 1px solid #000;overflow: hidden">
+    <div style="width: 100px;height: 100px;background: #eee;float: left;"></div>
+</div>
+<hr>
+<table class="f-table">
+    <caption><h3>bfc03-效果截图</h3></caption>
+    <tr><td>
+        IE8-浏览器模式：IE8标准模式，文档模式：IE8标准模式<br><img src="screenshot/ie8/bfc03_ie8s.jpg" title="IE8-浏览器模式：IE8标准模式，文档模式：IE8标准模式">
+    </td></tr>
+    <tr>
+        <td>
+            IE8-浏览器模式：IE8兼容模式，文档模式：IE7<br><img src="screenshot/ie8/bfc03_ie8c.jpg" title="IE8-浏览器模式：IE8兼容模式，文档模式：IE7">
+        </td></tr>
+    <tr><td>
+        IE8-浏览器模式：IE7，文档模式：IE7<br><img src="screenshot/ie8/bfc03_ie8c_ie7.jpg" title="IE8-浏览器模式：IE7，文档模式：IE7">
+    </td></tr>
+    <tr><td>
+        IE8-浏览器模式：IE8兼容模式，文档模式：QUIRKS<br><img src="screenshot/ie8/bfc03_ie8c_quirks.jpg" title="IE8-浏览器模式：IE8兼容模式，文档模式：QUIRKS">
+    </td></tr>
+    <tr><td>
+        CHROME<br><img src="screenshot/chrome/bfc03_chrome.jpg" title="CHROME">
+    </td></tr>
+    <tr><td>
+        FIREFOX<br><img src="screenshot/firfox/bfc03_firefox.jpg" title="FIREFOX">
+    </td></tr>
+</table>
+</body>
+</html>

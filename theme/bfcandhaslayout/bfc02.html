@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+    <meta charset="UTF-8">
+    <title>bfc02-放到两个不同的BFC下不会发生边距折叠</title>
+    <link rel="stylesheet" type="text/css" href="../css/format.css">
+    <style>
+        .container {
+            overflow: hidden;
+        }
+        p {
+            width: 100px;
+            height: 100px;
+            background: lightblue;
+            margin: 100px;
+        }
+    </style>
+</head>
+<body>
+<div><a href="info.html">info</a></div>
+<h3>代码</h3>
+<textarea class="f-codearea">
+    .container {
+        overflow: hidden;
+    }
+    p {
+        width: 100px;
+        height: 100px;
+        background: lightblue;
+        margin: 100px;
+    }
+    <div class="container">
+        <p></p>
+    </div>
+    <div class="container">
+        <p></p>
+    </div>
+</textarea>
+<hr>
+<div class="container">
+    <p></p>
+</div>
+<div class="container">
+    <p></p>
+</div>
+<hr>
+<table class="f-table">
+    <caption><h3>bfc02-效果截图</h3></caption>
+    <tr><td>
+        IE8-浏览器模式：IE8标准模式，文档模式：IE8标准模式<br><img src="screenshot/ie8/bfc02_ie8s.jpg" title="IE8-浏览器模式：IE8标准模式，文档模式：IE8标准模式">
+    </td>
+        <td>
+            IE8-浏览器模式：IE8兼容模式，文档模式：IE7<br><img src="screenshot/ie8/bfc02_ie8c.jpg" title="IE8-浏览器模式：IE8兼容模式，文档模式：IE7">
+        </td></tr>
+    <tr><td>
+        IE8-浏览器模式：IE7，文档模式：IE7<br><img src="screenshot/ie8/bfc02_ie8c_ie7.jpg" title="IE8-浏览器模式：IE7，文档模式：IE7">
+    </td><td>
+        IE8-浏览器模式：IE8兼容模式，文档模式：QUIRKS<br><img src="screenshot/ie8/bfc02_ie8c_quirks.jpg" title="IE8-浏览器模式：IE8兼容模式，文档模式：QUIRKS">
+    </td></tr>
+    <tr><td>
+        CHROME<br><img src="screenshot/chrome/bfc02_chrome.jpg" title="CHROME">
+    </td><td>
+        FIREFOX<br><img src="screenshot/firfox/bfc02_firefox.jpg" title="FIREFOX">
+    </td></tr>
+</table>
+</body>
+</html>

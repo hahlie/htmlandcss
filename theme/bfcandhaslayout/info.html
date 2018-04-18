@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+    <meta charset="UTF-8">
+    <title>Block Formating Content and HasLayout</title>
+</head>
+<body>
+<div><a href="../../index.html">index</a></div>
+<h3>BFC Block Formating Content</h3>
+<h3>触发条件</h3>
+<h3>
+    body 根元素<br>
+    浮动元素：float 除 none 以外的值<br>
+    绝对定位元素：position (absolute、fixed)<br>
+    display 为 inline-block、table-cells、flex<br>
+    overflow 除了 visible 以外的值 (hidden、auto、scroll)<br>
+    CSS3中，将Block formatting contexts 叫做flow root。
+    对于触发方式也做了修改：The value of ‘position’ is neither
+    ‘static’ nor ‘relative’
+</h3>
+<a href="bfc01.html"><h4>bfc01-同一个BFC下外边距会发生折叠</h4></a>
+<a href="bfc02.html"><h4>bfc02-放到两个不同的BFC下不会发生边距折叠</h4></a>
+<a href="bfc03.html"><h4>bfc03-触发BFC使容器包含浮动元素</h4></a>
+<a href="bfc04.html"><h4>bfc04-触发BFC阻止文字被浮动元素覆盖</h4></a>
+<hr>
+<h3>HasLayout IE Only 可以简单看作是IE5.5/6/7中的BFC</h3>
+<h3>
+    hasLayout == true 的元素<br>
+    &lt;html&gt;, &lt;body&gt;&lt;table&gt;, &lt;tr&gt;, &lt;th&gt;, &lt;td&gt;&lt;img&gt;,&lt;hr&gt;&lt;input&gt;, &lt;button&gt;, &lt;select&gt;, &lt;textarea&gt;, &lt;fieldset&gt;, &lt;legend&gt;&lt;iframe&gt;, &lt;embed&gt;, &lt;object&gt;, &lt;applet&gt;,&lt;marquee&gt;<br>
+    触发hsLayout == true的方式<br>
+    display: inline-block<br>
+    height: (除 auto 外任何值)<br>
+    width: (除 auto 外任何值)<br>
+    float: (left 或 right)<br>
+    position: absolute<br>
+    writing-mode: tb-rl<br>
+    zoom: (除 normal 外任意值<br>
+    IE7 还有一些额外的属性(不完全列表)可以触发 hasLayout<br>
+    min-height: (任意值)<br>
+    min-width: (任意值)<br>
+    max-height: (除 none 外任意值)<br>
+    max-width: (除 none 外任意值)<br>
+    overflow: (除 visible 外任意值，仅用于块级元素)<br>
+    overflow-x: (除 visible 外任意值，仅用于块级元素)<br>
+    overflow-y: (除 visible 外任意值，仅用于块级元素)<br>
+    position: fixed<br>
+    由于目前主要项目已经不必须支持IE5.5/6/7，因此此部分相对于BFC不是必要部分
+</h3>
+<a href="haslayout01.html"><h4>haslayout01-清除浮动</h4></a>
+<a href="bfcvshaslayout01.html"><h4>bfc vs haslayout01-清除浮动</h4></a>
+<a href="haslayout02.html"><h4>haslayout02-不能与浮动元素相互覆盖</h4></a>
+<a href="bfcvshaslayout02.html"><h4>bfc vs haslayout02-不能与浮动元素相互覆盖</h4></a>
+</body>
+</html>
