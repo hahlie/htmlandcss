@@ -1,4 +1,5 @@
 /*仅定义页面显示的样式，不能影响htmlandcss主题代码*/
+* { margin: 0;padding: 0; }
 .f-codearea{
     width: 800px;
     height: 200px;
