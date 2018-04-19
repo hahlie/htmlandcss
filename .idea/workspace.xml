@@ -2,69 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09d626a7-e825-4526-bb02-686227ba727d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/bfc02.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/bfc03.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/bfc04.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/bfcvshaslayout01.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/bfcvshaslayout02.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/haslayout01.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/haslayout02.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/info.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/chrome/bfcvshaslayout01_chrome.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/chrome/bfcvshaslayout02_chrome.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/chrome/haslayout01_chrome.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/chrome/haslayout02_chrome.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/firfox/bfcvshaslayout01_firefox.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/firfox/bfcvshaslayout02_firefox.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/firfox/haslayout01_firefox.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/firfox/haslayout02_firefox.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayout01_ie8c.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayout01_ie8c_ie7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayout01_ie8c_quirks.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayout01_ie8s.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayout02_ie8c.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayout02_ie8c_ie7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayout02_ie8c_quirks.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayout02_ie8s.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/haslayout01_ie8c.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/haslayout01_ie8c_ie7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/haslayout01_ie8c_quirks.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/haslayout01_ie8s.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/haslayout02_ie8c.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/haslayout02_ie8c_ie7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/haslayout02_ie8c_quirks.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/haslayout02_ie8s.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/css/format.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/template.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/demo01.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/chrome/bfcvshaslayoutdemo01_chrome.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/firfox/bfcvshaslayoutdemo01_firefox.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayoutdemo01_ie8c.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayoutdemo01_ie8c_ie7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayoutdemo01_ie8c_quirks.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayoutdemo01_ie8s.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/web/html/BlockFormatingContentDesc.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/html/BlokFormatingContent.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/html/HasLayout.html" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/bfc01.html" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/chrome/bfc01_chrome.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/chrome/bfc01_chrome.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/chrome/bfc02_chrome.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/chrome/bfc02_chrome.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/chrome/bfc03_chrome.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/chrome/bfc03_chrome.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/chrome/bfc04_chrome.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/chrome/bfc04_chrome.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/firfox/bfc01_firefox.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/firfox/bfc01_firefox.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/firfox/bfc02_firefox.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/firfox/bfc02_firefox.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/firfox/bfc03_firefox.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/firfox/bfc03_firefox.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/firfox/bfc04_firefox.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/firfox/bfc04_firefox.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/ie8/bfc01_ie8c.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfc01_ie8c.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/ie8/bfc01_ie8c_ie7.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfc01_ie8c_ie7.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/ie8/bfc01_ie8c_quirks.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfc01_ie8c_quirks.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/ie8/bfc01_ie8s.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfc01_ie8s.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/ie8/bfc02_ie8c.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfc02_ie8c.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/ie8/bfc02_ie8c_ie7.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfc02_ie8c_ie7.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/ie8/bfc02_ie8c_quirks.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfc02_ie8c_quirks.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/ie8/bfc02_ie8s.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfc02_ie8s.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/ie8/bfc03_ie8c.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfc03_ie8c.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/ie8/bfc03_ie8c_ie7.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfc03_ie8c_ie7.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/ie8/bfc03_ie8c_quirks.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfc03_ie8c_quirks.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/ie8/bfc03_ie8s.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfc03_ie8s.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/ie8/bfc04_ie8c.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfc04_ie8c.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/ie8/bfc04_ie8c_ie7.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfc04_ie8c_ie7.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/ie8/bfc04_ie8c_quirks.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfc04_ie8c_quirks.jpg" />
-      <change beforePath="$PROJECT_DIR$/web/shortcut/ie8/bfc04_ie8s.jpg" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfc04_ie8s.jpg" />
+      <change beforePath="$PROJECT_DIR$/theme/bfcandhaslayout/info.html" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/info.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,65 +22,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bfcvshaslayout02.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/bfcvshaslayout02.html">
+      <file leaf-file-name="demo01.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/demo01.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="32" column="35" lean-forward="false" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="522">
+              <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bfcvshaslayout01.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/bfcvshaslayout01.html">
+      <file leaf-file-name="bfcvshaslayoutdemo01_ie8c.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayoutdemo01_ie8c.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bfcvshaslayoutdemo01_chrome.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/chrome/bfcvshaslayoutdemo01_chrome.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bfcvshaslayoutdemo01_firefox.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/firfox/bfcvshaslayoutdemo01_firefox.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="info.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/info.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="566">
+              <caret line="52" column="95" lean-forward="false" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="95" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="haslayout01.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/haslayout01.html">
+      <file leaf-file-name="template.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/theme/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="haslayout02.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/haslayout02.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="216">
+              <caret line="12" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -185,9 +119,10 @@
         <option value="$PROJECT_DIR$/theme/bfcandhaslayout/bfc01.html" />
         <option value="$PROJECT_DIR$/theme/bfcandhaslayout/bfcvshaslayout01.html" />
         <option value="$PROJECT_DIR$/theme/template.html" />
-        <option value="$PROJECT_DIR$/theme/bfcandhaslayout/info.html" />
         <option value="$PROJECT_DIR$/theme/bfcandhaslayout/haslayout02.html" />
         <option value="$PROJECT_DIR$/theme/bfcandhaslayout/bfcvshaslayout02.html" />
+        <option value="$PROJECT_DIR$/theme/bfcandhaslayout/info.html" />
+        <option value="$PROJECT_DIR$/theme/bfcandhaslayout/demo01.html" />
       </list>
     </option>
   </component>
@@ -224,8 +159,8 @@
     <option name="jreName" value="#JAVA_HOME" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-106" />
-    <option name="y" value="131" />
+    <option name="x" value="-5" />
+    <option name="y" value="180" />
     <option name="width" value="1378" />
     <option name="height" value="856" />
   </component>
@@ -419,7 +354,7 @@
       <updated>1523934491989</updated>
       <workItem from="1523934493292" duration="11001000" />
       <workItem from="1523950316204" duration="1961000" />
-      <workItem from="1524013399920" duration="25646000" />
+      <workItem from="1524013399920" duration="28192000" />
     </task>
     <task id="LOCAL-00001" summary="创建新页面">
       <created>1523934943343</created>
@@ -428,11 +363,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523934943343</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="页面结构调整">
+      <created>1524044705314</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524044705314</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38608000" />
+    <option name="totallyTimeSpent" value="41154000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1381" height="916" extended-state="6" />
@@ -532,7 +474,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="创建新页面" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建新页面" />
+    <MESSAGE value="页面结构调整" />
+    <option name="LAST_COMMIT_MESSAGE" value="页面结构调整" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -724,16 +667,16 @@
         <state relative-caret-position="270">
           <caret line="15" column="80" lean-forward="true" selection-start-line="15" selection-start-column="80" selection-end-line="15" selection-end-column="80" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -751,27 +694,11 @@
         <state relative-caret-position="198">
           <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/theme/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/info.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -818,11 +745,11 @@
         <state relative-caret-position="576">
           <caret line="32" column="35" lean-forward="false" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -832,10 +759,10 @@
         <state relative-caret-position="432">
           <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -845,10 +772,10 @@
         <state relative-caret-position="504">
           <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -858,13 +785,52 @@
         <state relative-caret-position="702">
           <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="52" column="95" lean-forward="false" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayoutdemo01_ie8c.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/chrome/bfcvshaslayoutdemo01_chrome.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/firfox/bfcvshaslayoutdemo01_firefox.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/demo01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
