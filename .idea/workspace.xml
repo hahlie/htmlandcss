@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09d626a7-e825-4526-bb02-686227ba727d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/demo01.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/chrome/bfcvshaslayoutdemo01_chrome.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/firfox/bfcvshaslayoutdemo01_firefox.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayoutdemo01_ie8c.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayoutdemo01_ie8c_ie7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayoutdemo01_ie8c_quirks.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayoutdemo01_ie8s.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/theme/bfcandhaslayout/info.html" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/info.html" />
+      <change beforePath="$PROJECT_DIR$/theme/bfcandhaslayout/demo01.html" afterPath="$PROJECT_DIR$/theme/bfcandhaslayout/demo01.html" />
+      <change beforePath="$PROJECT_DIR$/theme/css/format.css" afterPath="$PROJECT_DIR$/theme/css/format.css" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,31 +19,30 @@
       <file leaf-file-name="demo01.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/demo01.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+            <state relative-caret-position="288">
+              <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bfcvshaslayoutdemo01_ie8c.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayoutdemo01_ie8c.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="format.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/theme/css/format.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bfcvshaslayoutdemo01_chrome.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/chrome/bfcvshaslayoutdemo01_chrome.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bfcvshaslayoutdemo01_firefox.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/firfox/bfcvshaslayoutdemo01_firefox.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="haslayout01.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/haslayout01.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -110,7 +103,6 @@
         <option value="$PROJECT_DIR$/web/html/BlockFormatingContentDesc.html" />
         <option value="$PROJECT_DIR$/web/html/HasLayout.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/theme/css/format.css" />
         <option value="$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/bfcvshaslayout01.html" />
         <option value="$PROJECT_DIR$/theme/bfcandhaslayout/bfc02.html" />
         <option value="$PROJECT_DIR$/theme/bfcandhaslayout/bfc03.html" />
@@ -123,6 +115,7 @@
         <option value="$PROJECT_DIR$/theme/bfcandhaslayout/bfcvshaslayout02.html" />
         <option value="$PROJECT_DIR$/theme/bfcandhaslayout/info.html" />
         <option value="$PROJECT_DIR$/theme/bfcandhaslayout/demo01.html" />
+        <option value="$PROJECT_DIR$/theme/css/format.css" />
       </list>
     </option>
   </component>
@@ -209,6 +202,12 @@
               <item name="theme" type="462c0819:PsiDirectoryNode" />
               <item name="bfcandhaslayout" type="462c0819:PsiDirectoryNode" />
               <item name="screenshot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htmlandcss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htmlandcss" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -354,7 +353,7 @@
       <updated>1523934491989</updated>
       <workItem from="1523934493292" duration="11001000" />
       <workItem from="1523950316204" duration="1961000" />
-      <workItem from="1524013399920" duration="28192000" />
+      <workItem from="1524013399920" duration="28733000" />
     </task>
     <task id="LOCAL-00001" summary="创建新页面">
       <created>1523934943343</created>
@@ -370,11 +369,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524044705314</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="bfc haslayout demo01">
+      <created>1524100994507</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1524100994507</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41154000" />
+    <option name="totallyTimeSpent" value="41695000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1381" height="916" extended-state="6" />
@@ -475,7 +481,8 @@
     </ignored-roots>
     <MESSAGE value="创建新页面" />
     <MESSAGE value="页面结构调整" />
-    <option name="LAST_COMMIT_MESSAGE" value="页面结构调整" />
+    <MESSAGE value="bfc haslayout demo01" />
+    <option name="LAST_COMMIT_MESSAGE" value="bfc haslayout demo01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -639,14 +646,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/theme/css/format.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/screenshot/ie8/bfcvshaslayout01_ie8c.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -767,19 +766,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/haslayout01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/haslayout02.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
@@ -826,10 +812,26 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/haslayout01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/css/format.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/theme/bfcandhaslayout/demo01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        <state relative-caret-position="288">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
           <folding />
         </state>
       </provider>

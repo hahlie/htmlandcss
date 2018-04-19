@@ -16,7 +16,18 @@
 <div><a href="info.html">info</a></div>
 <h3>代码</h3>
 <textarea class="f-codearea">
+    * { margin: 0;padding: 0;font-size: 14px; }
+    ol { list-style: none; width: 200px; }
+    ol li { overflow: hidden; }
+    ol li strong { float: left; }
+    ol li p { _display: inline; overflow: auto; zoom: 1 }/*用inline hack修复IE6 bug*/
 
+    <ol>
+        <li><strong>内容：</strong><p>“地球一小时”</p></li>
+        <li><strong>内容内容：</strong><p>“地球一小时”</p></li>
+        <li><strong>内容内容：</strong><p>“地球一小时”</p></li>
+        <li><strong>内容内容：</strong><p>“地球一小时”</p></li>
+    </ol>
 </textarea>
 <hr>
 <ol>
@@ -25,6 +36,10 @@
     <li><strong>内容内容：</strong><p>“地球一小时”</p></li>
     <li><strong>内容内容：</strong><p>“地球一小时”</p></li>
 </ol>
+<hr>
+<h5>
+    利用BFC 和hasLayout 清理LI 容器内浮动元素，并利用BFC 和haslayout区域不与浮动框重合的特性，简单的实现两列文字布局。
+</h5>
 <hr>
 <table class="f-table">
     <caption><h3>demo01-效果截图</h3></caption>
